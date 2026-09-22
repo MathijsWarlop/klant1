@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(190, 190, 17);
+  color: rgb(0, 102, 122);
+  font-family: system-ui, "Segoe UI", Arial, sans-serif;
+}
+
+h1 {
+  color: rgb(10, 86, 101);
+  font-size: 2.5rem; /* rem = 16px, so 2.5rem = 40px */
+  font-weight: 700; /* standaard is 400 */
+}
+p {
+  font-weight: 900; /* standaard is 400 */
+}
